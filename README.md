@@ -1,0 +1,1 @@
+It's just a copy of Netflix page. It's great to improve CSS skills and responsiveness properties!
